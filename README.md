@@ -33,6 +33,9 @@ light and fan
 - Its implementation especially focuses on the needs of disabled people.
 - Android phone will be used for the application software which will be connected to the google
 voice command input.
+
+Demonstration video link: https://youtu.be/YUSnYJiRt8w
+Feel free to Contact me: rohitshinde31102001@gmail.com  Instagram: i_am_rohitsh
 - Application software will be responsible for converting the voice command into the text
 format.
 - Ultimately application software will transfer that command to IFTTT where we have created
