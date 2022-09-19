@@ -47,6 +47,4 @@ disability to enjoy the life in a more pleasant way.
 
 
 Demonstration video link: https://youtu.be/YUSnYJiRt8w
-Feel free to Contact me:
-Email    : rohitshinde31102001@gmail.com  
-Instagram: i_am_rohitsh
+Feel free to Contact me:  rohitshinde31102001@gmail.com  
