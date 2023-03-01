@@ -1,4 +1,4 @@
-# Home_Automation
+# Home_Eze
 The main aim of the project is to control the home applications voice using Android OS smart
 phones with a Node MCU. This is an advanced technology in the home automation, so houses are
 getting smarter. Usually conventional wall switches are located in different parts of the house and often
